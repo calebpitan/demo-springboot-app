@@ -3,17 +3,22 @@
     {
       "name": "app.datasource.jdbc-url",
       "type": "java.lang.String",
-      "description": "Description for app.datasource.jdbc-url."
+      "description": "The database connection string to be used by JDBC."
     },
     {
       "name": "app.datasource.username",
       "type": "java.lang.String",
-      "description": "Description for app.datasource.username."
+      "description": "The username to access the database with."
     },
     {
       "name": "app.datasource.password",
       "type": "java.lang.String",
-      "description": "Description for app.datasource.password."
+      "description": "The password to access the database with."
+    },
+    {
+      "name": "app.datasource.pool-size",
+      "type": "java.lang.Integer",
+      "description": "The maximum connection pool limit."
     }
   ]
 }

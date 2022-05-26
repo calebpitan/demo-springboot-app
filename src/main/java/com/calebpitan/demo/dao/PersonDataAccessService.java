@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.calebpitan.demo.dao;
 
-import com.example.demo.model.Person;
+import com.calebpitan.demo.model.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;

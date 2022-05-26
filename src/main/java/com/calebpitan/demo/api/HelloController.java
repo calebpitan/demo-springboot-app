@@ -1,4 +1,4 @@
-package com.example.demo.api;
+package com.calebpitan.demo.api;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.calebpitan.demo.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.calebpitan.demo.dao;
 
-import com.example.demo.model.Person;
+import com.calebpitan.demo.model.Person;
 
 import java.util.List;
 import java.util.Optional;

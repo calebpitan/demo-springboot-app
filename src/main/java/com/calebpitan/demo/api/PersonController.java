@@ -1,7 +1,7 @@
-package com.example.demo.api;
+package com.calebpitan.demo.api;
 
-import com.example.demo.model.Person;
-import com.example.demo.services.PersonService;
+import com.calebpitan.demo.model.Person;
+import com.calebpitan.demo.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
